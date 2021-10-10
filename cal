@@ -17,3 +17,5 @@ elif option == 5:
    print(f"Floor Division: {a // b}")
 elif option == 6:
    print(f"Modulo: {a % b}")
+else:
+  print("wrong input")
